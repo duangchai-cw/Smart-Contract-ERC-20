@@ -6,7 +6,7 @@ This project contains the `kig.sol` Solidity contract, an ERC-20 token implement
 
 **Name**: onlyworknosleep (KIG)  
 **Description**: ERC-20 token with 8 decimals and 21,000,000 total supply  
-**Compiler**: Solidity ^0.8.20  
+**Compiler**: Solidity ^0.8.34  
 **Deployment Address**: [0x4151CCB3F36253504b3254B11A494953E8759213](https://explorer.labchain.la/address/0x4151CCB3F36253504b3254B11A494953E8759213?tab=contract)
 
 ### Contract Features
